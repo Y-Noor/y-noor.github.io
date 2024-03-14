@@ -4,7 +4,7 @@ collection: teaching
 type: "Sections"
 permalink: /teaching/cip
 venue: "Stanford; 2020, 2021"
-date: 2020, 2021
+date: 2020-05
 location: "My room"
 ---
 
