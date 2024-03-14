@@ -1,11 +1,11 @@
 ---
-title: "Code In Place"
+title: "Code In Place ~ CS106a"
 collection: teaching
 type: "Sections"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/cip
 venue: "University 1, Department"
 date: 2020, 2021
-location: "My room via Stanford"
+location: "My room"
 ---
 
 A free, human-centered, intro-to-coding course from Stanford University
