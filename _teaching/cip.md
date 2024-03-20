@@ -3,7 +3,7 @@ title: "Code In Place ~ CS106a"
 collection: teaching
 type: "Sections"
 permalink: /teaching/cip
-venue: "Stanford; 2020, 2021"
+venue: "Stanford, 2020 - 2021"
 date: 2020-05
 location: "My room"
 ---
