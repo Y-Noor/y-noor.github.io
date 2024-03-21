@@ -2,7 +2,7 @@
 title: "Introversion, extraversion and everything in between"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-06-12-introvert-extroverts
+permalink: /talks/2022-12-06-introvert-extroverts
 venue: "Middlesex University Mauritius"
 date: 2022-06-12
 location: "Flic-enflac, Mauritius"
