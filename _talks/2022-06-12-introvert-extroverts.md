@@ -1,11 +1,11 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
+title: "Introversion, extraversion and everything in between"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+permalink: /talks/2022-06-12-introvert-extroverts
+venue: "Middlesex University Mauritius"
+date: 2022-06-12
+location: "Flic-enflac, Mauritius"
 ---
 
 [More information here](http://example2.com)
