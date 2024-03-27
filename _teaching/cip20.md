@@ -4,7 +4,7 @@ collection: teaching
 type: "Sections"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Stanford, CS106a"
-date: 2020, 2021
+date: 2020-05-05
 location: "My room via Stanford"
 ---
 A free, human-centered, intro-to-coding course from Stanford University
