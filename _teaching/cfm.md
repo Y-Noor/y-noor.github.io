@@ -4,17 +4,19 @@ collection: teaching
 type: "Volunteering"
 permalink: /teaching/cip
 venue: "Mauritius"
-date: 2023, 2024
+date: 2023-04-12
 location: "Mauritius"
 ---
-This is a description of a teaching experience. You can use markdown like any other post.
+Assisted the participants throughout the various conferences and events.
 
-2020
+App development basics workshop at Rajiv Gandhi Science Centre
 ======
-CIP was a challenge 
+Students were introduced 
 
-Heading 2
+
+AfricaPay Code for Mauritius  x Stanford ASES Entrepreneurship Conference
 ======
 
-Heading 3
+
+AfricaPay Code for Mauritius
 ======
