@@ -9,6 +9,10 @@ location: "Flic en flac"
 ---
 A free, human-centered, intro-to-coding course from Stanford University
 
+2020
+======
+CIP was a challenge 
+
 Heading 2
 ======
 
