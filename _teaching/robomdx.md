@@ -1,13 +1,13 @@
 ---
-title: "Mentor for first robotic event at Middlesex University Mauritius"
+title: "Code In Place"
 collection: teaching
-type: "Mentor"
-permalink: /teaching/robomdx
-venue: "Middlesex University Mauritius, Flic-en-flac"
-date: 2021-09-02
-location: "Mauritius"
+type: "Online sections for CS106a"
+permalink: /teaching/2015-spring-teaching-1
+venue: "Stanford, 2020, 2021"
+date: 2024-05-05
+location: "My room via Stanford"
 ---
-qweqwe
+A free, human-centered, intro-to-coding course from Stanford University
 
 Heading 1
 ======
