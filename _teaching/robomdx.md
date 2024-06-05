@@ -1,5 +1,5 @@
 ---
-ttitle: "Mentor for first robotic event at Middlesex University Mauritius"
+title: "Mentor for first robotic event at Middlesex University Mauritius"
 collection: teaching
 type: "Online sections for CS106a"
 permalink: /teaching/2015-spring-teaching-1
