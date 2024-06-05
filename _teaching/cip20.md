@@ -1,9 +1,9 @@
 ---
 title: "Code In Place"
 collection: teaching
-type: "Sections"
+type: "Online sections for CS106a"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Stanford, CS106a"
+venue: "Stanford, 2020, 2021, 2024"
 date: 2020-05-05
 location: "My room via Stanford"
 ---
