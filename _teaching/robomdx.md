@@ -7,14 +7,16 @@ venue: "Middlesex University Mauritius"
 date: 2024-05-05
 location: "Flic en flac"
 ---
-A free, human-centered, intro-to-coding course from Stanford University
+Assisted the participants throughout the various conferences and events.
 
-2020
+App development basics workshop at Rajiv Gandhi Science Centre
 ======
-CIP was a challenge 
+Students were introduced 
 
-Heading 2
+
+AfricaPay Code for Mauritius  x Stanford ASES Entrepreneurship Conference
 ======
 
-Heading 3
+
+AfricaPay Code for Mauritius
 ======
