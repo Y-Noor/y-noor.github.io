@@ -6,7 +6,7 @@ permalink: /teaching/sla
 venue: "Middlesex University Mauritius, Flic-en-flac"
 date: 2021-01-15
 location: "Mauritius"
----
+--- 
 Assisted the participants throughout the various conferences and events.
 
 App development basics workshop at Rajiv Gandhi Science Centre

@@ -1,7 +1,7 @@
 ---
 title: "Code For Mauritius mentor"
 collection: teaching
-type: "Volunteering"
+type: "Mentor"
 permalink: /teaching/cip
 venue: "Mauritius"
 date: 2023-04-12
