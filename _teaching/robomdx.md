@@ -7,6 +7,7 @@ venue: "Middlesex University Mauritius"
 date: 2024-05-05
 location: "Flic en flac"
 ---
+
 Mentored highschool students through an introduction to robotics.
 ======
 AfricaPay Code for Mauritius  x Stanford ASES Entrepreneurship Conference
