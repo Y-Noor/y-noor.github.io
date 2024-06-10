@@ -7,16 +7,10 @@ venue: "Middlesex University Mauritius"
 date: 2024-05-05
 location: "Flic en flac"
 ---
-Assisted the participants throughout the various conferences and events.
-
-App development basics workshop at Rajiv Gandhi Science Centre
+Mentored highschool students through an introduction to robotics.
 ======
-Students were introduced 
-
-
 AfricaPay Code for Mauritius  x Stanford ASES Entrepreneurship Conference
 ======
-
 
 AfricaPay Code for Mauritius
 ======
