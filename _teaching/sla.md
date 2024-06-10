@@ -4,7 +4,7 @@ collection: teaching
 type: "Peer-to-peer teaching"
 permalink: /teaching/sla
 venue: "Middlesex University Mauritius, Flic-en-flac"
-date: 2021, 2022, 2023
+date: 2021-15-01
 location: "Mauritius"
 ---
 Assisted the participants throughout the various conferences and events.
